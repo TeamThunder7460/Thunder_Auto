@@ -1,0 +1,46 @@
+package org.firstinspires.ftc.teamcode.TestAutoFolder;
+//import com.acmerobotics.dashboard.config.Config;
+//import com.acmerobotics.roadrunner.Pose2d;
+//import com.acmerobotics.roadrunner.SequentialAction;
+//import com.acmerobotics.roadrunner.ftc.Actions;
+//import com.acmerobotics.roadrunner.Pose2d;
+//import com.acmerobotics.roadrunner.SequentialAction;
+import com.qualcomm.robotcore.eventloop.opmode.Autonomous;
+import com.qualcomm.robotcore.eventloop.opmode.LinearOpMode;
+
+//import org.firstinspires.ftc.teamcode.MecanumDrive;
+//import org.firstinspires.ftc.teamcode.MecanumDrive;
+
+/*THIS FILE IS CURSED
+
+ DO NOT USE THIS FILE OR DELETE IT, IT IS CURSED AND I DO NOT KNOW WHY
+
+ Coconut.jpg
+
+ */
+@Autonomous(name = "RRtest Red")
+public class RRautotest extends LinearOpMode {
+    @Override
+    public void runOpMode() {
+        waitForStart();
+
+    }
+}
+
+
+
+
+
+////Start position for RED
+//Pose2d initialPose = new Pose2d(0, -72, Math.toRadians(90));
+//MecanumDrive drive = new MecanumDrive(hardwareMap, initialPose);
+//Claw claw = new Claw(hardwareMap);
+//Lift lift = new Lift(hardwareMap);
+//Wrist wrist = new Wrist(hardwareMap);
+//        Actions.runBlocking(new SequentialAction(
+//        claw.closeClaw()
+//        ));
+////        if (isStopRequested()) return;
+//                telemetry.addData("Status", "Initialized");
+//        telemetry.update();
+
